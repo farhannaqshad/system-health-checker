@@ -90,7 +90,7 @@ pip install -r requirements.txt
 
 - Run the automation script:
 ```bash
-python main.py
+python main.py sf1
 ```
 
 - Alternatively, use the provided batch file (Windows):
