@@ -1,0 +1,7 @@
+pysftp>=0.2.9
+pandas>=1.4.1
+paramiko>=2.10.3
+configparser2>=4.0.0
+configparser>=5.2.0
+selenium>=4.1.3
+
